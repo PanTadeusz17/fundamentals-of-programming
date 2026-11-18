@@ -1,4 +1,4 @@
-Python
+
 def main():
     monthly_expenses = [
         [200, 50, 100],  # Week 1
