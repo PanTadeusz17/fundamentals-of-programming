@@ -1,0 +1,10 @@
+{
+    "table": "C",
+    "currency": "euro",
+    "code": "EUR",
+    "rates": [
+        {"no": "001/C/NBP/2026", "effectiveDate": "2026-01-02", "bid": 4.2150, "ask": 4.3002},
+        {"no": "002/C/NBP/2026", "effectiveDate": "2026-01-05", "bid": 4.2210, "ask": 4.3062},
+        {"no": "003/C/NBP/2026", "effectiveDate": "2026-01-06", "bid": 4.2180, "ask": 4.3032}
+    ]
+}
